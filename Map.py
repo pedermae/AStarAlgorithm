@@ -89,7 +89,7 @@ class Map_Obj():
         Parameters
         ----------
         task : int
-            Number of task we are currently solving
+            ""Number of task we are currently solving""
 
         Returns
         -------
