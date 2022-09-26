@@ -1,0 +1,11 @@
+H = Kost fra nåværende node til mål
+G = Kost fra startnode til nåværende node
+F = Kost fra startnode til mål : F = H + G
+
+
+
+Open = En liste for noder som skal evalueres
+Close = En liste for noder som allerede er evaluert
+
+Loop:
+current = node i open med lavest F-kost
